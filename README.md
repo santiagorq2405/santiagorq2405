@@ -13,4 +13,4 @@ Researcher in psychometrics and AI evaluation. MSc student in Applied Mathematic
 
 ## Profiles
 
-[Google Scholar](https://scholar.google.com/citations?user=tfbeBK0AAAAJ) · [ORCID 0009-0005-4729-6499](https://orcid.org/0009-0005-4729-6499) · [OSF](https://osf.io/heug7/) · [OpenReview](https://openreview.net/profile?id=~Santiago_Rivadeneira_Quintero1) · [LinkedIn](https://www.linkedin.com/in/santiago-rivadeneira-044651335)
+[Google Scholar](https://scholar.google.com/citations?user=tfbeBK0AAAAJ) · [ORCID 0009-0005-4729-6499](https://orcid.org/0009-0005-4729-6499) · [OSF](https://osf.io/heug7/) · [OpenReview](https://openreview.net/profile?id=~Santiago_Rivadeneira_Quintero1) · [LinkedIn](https://www.linkedin.com/in/santiago-rivadeneira-quintero)
