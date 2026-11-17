@@ -1,5 +1,7 @@
 # Santiago Rivadeneira Quintero
 
+<img src="santiago-rivadeneira-quintero.jpg" alt="Santiago Rivadeneira Quintero, researcher at EPFL and Stanford" title="Santiago Rivadeneira Quintero" width="150" align="right">
+
 Researcher in psychometrics and AI evaluation. MSc student in Applied Mathematics at EPFL and AI researcher in its Mathematical Data Science Lab (Prof. Emmanuel Abbe); from February 2027, Visiting Student Researcher at the Stanford Graduate School of Education with Prof. Benjamin Domingue. Contributor to the [Item Response Warehouse](https://itemresponsewarehouse.org).
 
 ## Papers
